@@ -5,3 +5,5 @@ CSV's containing player performance available at: https://github.com/AMendez139/
 Most current jupyter notebook is main.ipynb at the moment
 -> https://github.com/AMendez139/amendez139.github.io
   -> https://github.com/AMendez139/amendez139.github.io/blob/main/main.ipynb
+
+Authors: Jonas Da Silva, Senay Alemayehu, Sean Sweeney, and Andrew Mendez
